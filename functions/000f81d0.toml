@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.020015Z
+addr = 0xf81d0
+size = 0x21e
+name = "CNetworkSystem_CloseSocket"
+type = "char"
+
+[header]
+name = "CNetworkSystem_CloseSocket"
+addr = 0xf81d0
+type = "char"
+
+[header.args]

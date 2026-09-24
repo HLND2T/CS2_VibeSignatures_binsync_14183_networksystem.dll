@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.019954Z
+addr = 0xdcf40
+size = 0x118
+name = "CNetworkMessages_RegisterNetworkCategory"
+type = "void"
+
+[header]
+name = "CNetworkMessages_RegisterNetworkCategory"
+addr = 0xdcf40
+type = "void"
+
+[header.args]

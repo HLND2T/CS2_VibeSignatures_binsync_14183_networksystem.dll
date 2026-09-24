@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.020021Z
+addr = 0xf9290
+size = 0xf7
+name = "CNetworkSystem_BufferToBufferDecompress"
+type = "char"
+
+[header]
+name = "CNetworkSystem_BufferToBufferDecompress"
+addr = 0xf9290
+type = "char"
+
+[header.args]

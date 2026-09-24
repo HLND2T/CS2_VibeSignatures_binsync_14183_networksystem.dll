@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.020004Z
+addr = 0xf4c70
+size = 0xdd
+name = "CNetworkSystem_RemoveNetChannelByAddress"
+type = "char"
+
+[header]
+name = "CNetworkSystem_RemoveNetChannelByAddress"
+addr = 0xf4c70
+type = "char"
+
+[header.args]

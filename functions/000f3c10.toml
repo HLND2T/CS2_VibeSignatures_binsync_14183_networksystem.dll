@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:03.027394Z
+addr = 0xf3c10
+size = 0x5ac
+name = "CNetworkSystem_InitGameServer"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_InitGameServer"
+addr = 0xf3c10
+type = "long long"
+
+[header.args]

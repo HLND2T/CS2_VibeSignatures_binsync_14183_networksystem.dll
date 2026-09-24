@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.019959Z
+addr = 0xdd420
+size = 0x364
+name = "CNetworkMessages_FindOrCreateNetMessage"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_FindOrCreateNetMessage"
+addr = 0xdd420
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.973667Z
+addr = 0xdf170
+size = 0x272
+name = "CNetworkMessages_RegisterNetworkArrayFieldSerializer"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_RegisterNetworkArrayFieldSerializer"
+addr = 0xdf170
+type = "long long"
+
+[header.args]

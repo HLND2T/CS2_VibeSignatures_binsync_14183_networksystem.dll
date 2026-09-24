@@ -1,0 +1,300 @@
+[0xbf18a]
+last_change = 2026-09-24T17:36:02.935367Z
+addr = 0xbf18a
+func_addr = 0xbe3c0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xdd17d]
+last_change = 2026-09-24T17:36:02.946820Z
+addr = 0xdd17d
+func_addr = 0xdd160
+comment = "SRWLock"
+decompiled = false
+
+[0xdd1ac]
+last_change = 2026-09-24T17:36:02.946833Z
+addr = 0xdd1ac
+func_addr = 0xdd160
+comment = "SRWLock"
+decompiled = false
+
+[0xdde38]
+last_change = 2026-09-24T17:36:02.965888Z
+addr = 0xdde38
+func_addr = 0xdddd0
+comment = "SRWLock"
+decompiled = false
+
+[0xdde55]
+last_change = 2026-09-24T17:36:02.965898Z
+addr = 0xdde55
+func_addr = 0xdddd0
+comment = "SRWLock"
+decompiled = false
+
+[0xdde7a]
+last_change = 2026-09-24T17:36:02.965903Z
+addr = 0xdde7a
+func_addr = 0xdddd0
+comment = "SRWLock"
+decompiled = false
+
+[0xdde9a]
+last_change = 2026-09-24T17:36:02.965907Z
+addr = 0xdde9a
+func_addr = 0xdddd0
+comment = "SRWLock"
+decompiled = false
+
+[0xdee35]
+last_change = 2026-09-24T17:36:02.969780Z
+addr = 0xdee35
+func_addr = 0xdee10
+comment = "SRWLock"
+decompiled = false
+
+[0xdee5f]
+last_change = 2026-09-24T17:36:02.969789Z
+addr = 0xdee5f
+func_addr = 0xdee10
+comment = "SRWLock"
+decompiled = false
+
+[0xdee7b]
+last_change = 2026-09-24T17:36:02.969793Z
+addr = 0xdee7b
+func_addr = 0xdee10
+comment = "SRWLock"
+decompiled = false
+
+[0xdeeae]
+last_change = 2026-09-24T17:36:02.969797Z
+addr = 0xdeeae
+func_addr = 0xdee10
+comment = "SRWLock"
+decompiled = false
+
+[0xdefc3]
+last_change = 2026-09-24T17:36:02.969802Z
+addr = 0xdefc3
+func_addr = 0xdee10
+comment = "SRWLock"
+decompiled = false
+
+[0xdf195]
+last_change = 2026-09-24T17:36:02.973647Z
+addr = 0xdf195
+func_addr = 0xdf170
+comment = "SRWLock"
+decompiled = false
+
+[0xdf1bf]
+last_change = 2026-09-24T17:36:02.973655Z
+addr = 0xdf1bf
+func_addr = 0xdf170
+comment = "SRWLock"
+decompiled = false
+
+[0xdf1db]
+last_change = 2026-09-24T17:36:02.973660Z
+addr = 0xdf1db
+func_addr = 0xdf170
+comment = "SRWLock"
+decompiled = false
+
+[0xdf20e]
+last_change = 2026-09-24T17:36:02.973663Z
+addr = 0xdf20e
+func_addr = 0xdf170
+comment = "SRWLock"
+decompiled = false
+
+[0xdf2e9]
+last_change = 2026-09-24T17:36:02.973667Z
+addr = 0xdf2e9
+func_addr = 0xdf170
+comment = "SRWLock"
+decompiled = false
+
+[0xdf692]
+last_change = 2026-09-24T17:36:02.977533Z
+addr = 0xdf692
+func_addr = 0xdf4a0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xdf8e3]
+last_change = 2026-09-24T17:36:02.981385Z
+addr = 0xdf8e3
+func_addr = 0xdf760
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xdf923]
+last_change = 2026-09-24T17:36:02.981393Z
+addr = 0xdf923
+func_addr = 0xdf760
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xdfe52]
+last_change = 2026-09-24T17:36:02.985255Z
+addr = 0xdfe52
+func_addr = 0xdfd60
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xe0dcf]
+last_change = 2026-09-24T17:36:03.012062Z
+addr = 0xe0dcf
+func_addr = 0xe0db0
+comment = "SRWLock"
+decompiled = false
+
+[0xe0dec]
+last_change = 2026-09-24T17:36:03.012076Z
+addr = 0xe0dec
+func_addr = 0xe0db0
+comment = "SRWLock"
+decompiled = false
+
+[0xe0e11]
+last_change = 2026-09-24T17:36:03.012082Z
+addr = 0xe0e11
+func_addr = 0xe0db0
+comment = "SRWLock"
+decompiled = false
+
+[0xe0e2e]
+last_change = 2026-09-24T17:36:03.012086Z
+addr = 0xe0e2e
+func_addr = 0xe0db0
+comment = "SRWLock"
+decompiled = false
+
+[0xf38b0]
+last_change = 2026-09-24T17:36:03.023546Z
+addr = 0xf38b0
+func_addr = 0xf3370
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xf38d2]
+last_change = 2026-09-24T17:36:03.023557Z
+addr = 0xf38d2
+func_addr = 0xf3370
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xf3bcc]
+last_change = 2026-09-24T17:36:03.023562Z
+addr = 0xf3bcc
+func_addr = 0xf3370
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xf3f13]
+last_change = 2026-09-24T17:36:03.027379Z
+addr = 0xf3f13
+func_addr = 0xf3c10
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xf413b]
+last_change = 2026-09-24T17:36:03.027389Z
+addr = 0xf413b
+func_addr = 0xf3c10
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xf417b]
+last_change = 2026-09-24T17:36:03.027394Z
+addr = 0xf417b
+func_addr = 0xf3c10
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xf59a0]
+last_change = 2026-09-24T17:36:03.038890Z
+addr = 0xf59a0
+func_addr = 0xf58a0
+comment = "switch 70 cases"
+decompiled = false
+
+[0xf59be]
+last_change = 2026-09-24T17:36:03.038900Z
+addr = 0xf59be
+func_addr = 0xf58a0
+comment = "switch jump"
+decompiled = false
+
+[0xf59c0]
+last_change = 2026-09-24T17:36:03.038906Z
+addr = 0xf59c0
+func_addr = 0xf58a0
+comment = "jumptable 00000001800F69BE cases 0-3,38,59,69"
+decompiled = false
+
+[0xf59c7]
+last_change = 2026-09-24T17:36:03.038911Z
+addr = 0xf59c7
+func_addr = 0xf58a0
+comment = "jumptable 00000001800F69BE default case, cases 4-37,39-58,60-68"
+decompiled = false
+
+[0xf5b34]
+last_change = 2026-09-24T17:36:03.038915Z
+addr = 0xf5b34
+func_addr = 0xf58a0
+comment = "jump table for switch statement"
+decompiled = false
+
+[0xf5b3c]
+last_change = 2026-09-24T17:36:03.038920Z
+addr = 0xf5b3c
+func_addr = 0xf58a0
+comment = "indirect table for switch statement"
+decompiled = false
+
+[0xf6ff0]
+last_change = 2026-09-24T17:36:03.050406Z
+addr = 0xf6ff0
+func_addr = 0xf6f20
+comment = "namelen"
+decompiled = false
+
+[0xf6ff5]
+last_change = 2026-09-24T17:36:03.050416Z
+addr = 0xf6ff5
+func_addr = 0xf6f20
+comment = "name"
+decompiled = false
+
+[0xfb1d6]
+last_change = 2026-09-24T17:36:03.073445Z
+addr = 0xfb1d6
+func_addr = 0xfb0b0
+comment = "0x80 = 128LL = INetworkMessages_GetNetworkGroupCount"
+decompiled = true
+
+[0xfb23c]
+last_change = 2026-09-24T17:36:03.073461Z
+addr = 0xfb23c
+func_addr = 0xfb0b0
+comment = "0x88 = 136LL = INetworkMessages_GetNetworkGroupName"
+decompiled = false
+
+[0xfb259]
+last_change = 2026-09-24T17:36:03.073467Z
+addr = 0xfb259
+func_addr = 0xfb0b0
+comment = "0x90 = 144LL = INetworkMessages_GetNetworkGroupColor"
+decompiled = true
+
+[0xfb253]
+last_change = 2026-09-24T17:36:03.077248Z
+addr = 0xfb253
+func_addr = 0xfb0b0
+comment = "0x88 = 136LL = INetworkMessages_GetNetworkGroupName"
+decompiled = true

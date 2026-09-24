@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.019994Z
+addr = 0xe1320
+size = 0x513
+name = "CNetworkMessages_ConfirmAllMessageHandlersInstalled"
+type = "void"
+
+[header]
+name = "CNetworkMessages_ConfirmAllMessageHandlersInstalled"
+addr = 0xe1320
+type = "void"
+
+[header.args]

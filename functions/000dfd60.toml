@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.985255Z
+addr = 0xdfd60
+size = 0x173
+name = "CNetworkMessages_ComputeOrderForPriority"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_ComputeOrderForPriority"
+addr = 0xdfd60
+type = "long long"
+
+[header.args]

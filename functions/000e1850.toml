@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.019996Z
+addr = 0xe1850
+size = 0x8
+name = "CNetworkMessages_GetIsForServer"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_GetIsForServer"
+addr = 0xe1850
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:02.019946Z
+addr = 0xbdc50
+size = 0x4a1
+name = "CNetChan_ParseNetMessageShowFilter"
+type = "void"
+
+[header]
+name = "CNetChan_ParseNetMessageShowFilter"
+addr = 0xbdc50
+type = "void"
+
+[header.args]
